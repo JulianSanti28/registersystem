@@ -1,0 +1,5 @@
+package model.coordinador;
+
+public enum TareasEnum {
+    ASIGNACION_HORARIOS, ASIGNACION_RECURSOS_HUMANOS, ASIGNACION_RECURSOS_ECONOMICOS
+}
